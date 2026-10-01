@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Anoop-jogibettu&style=for-the-badge&color=blue" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/anoop-jogibettu-789095255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anupjogibettu2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Anoop-jogibettu?tab=followers"><img src="https://img.shields.io/github/followers/Anoop-jogibettu?style=for-the-badge&logo=github&logoColor=white&color=2F81F7" alt="GitHub followers"/></a>
 </p>
 
 ---
