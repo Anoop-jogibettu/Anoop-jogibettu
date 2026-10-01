@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 - 🎓 Pursuing a postgraduate degree in computing
-- 🔭 Currently working on: **your project here**
-- 🌱 Learning: **topics here**
-- 💬 Ask me about: **topics here**
+- 🔭 Currently working on: **weaver**
+- 🌱 Learning: **DSA**
+
 
 ### 🛠️ Tech Stack
 <p>
