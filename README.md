@@ -38,14 +38,14 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Anoop-jogibettu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anoop-jogibettu/Anoop-jogibettu/output/snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Anoop-jogibettu/Anoop-jogibettu/output/snake.svg">
   </picture>
 </p>
 
