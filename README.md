@@ -1,46 +1,97 @@
-<h1 align="center">Hi 👋, I'm Anoop Jogibettu</h1>
-<h3 align="center">Postgraduate Computing Student | Developer | Learner</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=190&section=header&text=Anoop%20Jogibettu&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=loose%20threads%20%E2%86%92%20working%20software&descSize=16&descAlignY=58" width="100%" alt="Anoop Jogibettu" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Anoop+Jogibettu;Building+things+with+code;Exploring+AI+%26+Software+Engineering;Always+learning+something+new" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anoop-jogibettu-789095255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anupjogibettu2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Anoop-jogibettu?tab=followers"><img src="https://img.shields.io/github/followers/Anoop-jogibettu?style=for-the-badge&logo=github&logoColor=white&color=2F81F7" alt="GitHub followers"/></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/anoop-jogibettu-789095255/) &nbsp;╳&nbsp; [Email](mailto:anupjogibettu2003@gmail.com) &nbsp;╳&nbsp; [Followers](https://github.com/Anoop-jogibettu?tab=followers)
 
----
+</div>
 
-### 🚀 About Me
-- 🎓 Pursuing a postgraduate degree in computing
-- 🔭 Currently working on: **weaver**
-- 🌱 Learning: **DSA**
+<br>
 
+```console
+anoop@pg-computer-application:~$ whoami
+anoop jogibettu, postgraduate computer application student
 
-### 🛠️ Tech Stack
+anoop@pg-computer-application:~$ cat now.txt
+building    →  weaver
+practicing  →  data structures & algorithms
+exploring   →  AI, software engineering
+
+anoop@pg-computer-application:~$ ls stack/
+python/  java/  javascript/  react/  node/  mysql/  git/  docker/
+
+anoop@pg-computer-application:~$ ▌
+```
+
+<br>
+
+## ▚▞ The loom
+
+Every project I build has two kinds of thread.
+
+| Warp (stays fixed) | Weft (changes every project) |
+|:--|:--|
+| Fundamentals: DSA, clean structure, version control | Whatever I'm curious about this month |
+| Reading code before writing it | New languages, frameworks, ideas |
+| Shipping small, then improving | Experiments that may or may not survive |
+
+<br>
+
+<details>
+<summary><b>▸ Things I currently believe about code</b></summary>
+
+<br>
+
+- The best code is the code you didn't have to write.
+- Understanding a problem is 80% of solving it.
+- A good commit message is a letter to your future self.
+- Every project teaches you something, even the abandoned ones.
+
+</details>
+
+<details>
+<summary><b>▸ Currently weaving: <code>weaver</code></b></summary>
+
+<br>
+
+*Add two or three lines here about what weaver does and why you started it. This is the first thing a recruiter will expand.*
+
+</details>
+
+<br>
+
+## ▚▞ Tools of the trade
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,mysql,git,docker&theme=dark" alt="Python, Java, JavaScript, React, Node.js, MySQL, Git, Docker" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anoop-jogibettu&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-jogibettu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<br>
+
+## ▚▞ Pattern so far
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anoop-jogibettu&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anoop-jogibettu&show_icons=true&theme=transparent&title_color=8957e5&icon_color=1f6feb&text_color=c9d1d9&hide_border=true" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anoop-jogibettu&show_icons=true&theme=transparent&title_color=8957e5&icon_color=1f6feb&text_color=24292f&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-jogibettu&layout=compact&theme=transparent&title_color=8957e5&text_color=c9d1d9&hide_border=true" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-jogibettu&layout=compact&theme=transparent&title_color=8957e5&text_color=24292f&hide_border=true" />
+  </picture>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Anoop-jogibettu&theme=transparent&ring=8957e5&fire=1f6feb&currStreakLabel=8957e5&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Anoop-jogibettu&theme=transparent&ring=8957e5&fire=1f6feb&currStreakLabel=8957e5&hide_border=true" />
+  </picture>
+</p>
 
-<p align="center">⭐ Thanks for visiting! Feel free to connect or collaborate. ⭐</p>
+<br>
+
+<div align="center">
+<sub>Got a thread worth pulling? Say hello.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
