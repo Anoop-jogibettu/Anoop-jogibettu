@@ -41,14 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=Anoop-jogibettu&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anoop-jogibettu/Anoop-jogibettu/output/snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Anoop-jogibettu/Anoop-jogibettu/output/snake.svg">
-  </picture>
-</p>
-
 ---
 
 <p align="center">⭐ Thanks for visiting! Feel free to connect or collaborate. ⭐</p>
