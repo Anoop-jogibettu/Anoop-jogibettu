@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Terminal session for Anoop Jogibettu">
+  <style>
+    text { font: 15px 'Courier New', Consolas, monospace; }
+    .p { fill: #3fb950; }
+    .c { fill: #e6edf3; }
+    .o { fill: #8b949e; }
+    .k { fill: #79c0ff; }
+    .l { opacity: 0; animation: show .01s linear forwards; }
+    .cur { fill: #e6edf3; opacity: 0; animation: blink 1s steps(1) 4.6s infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+  <rect width="900" height="330" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect width="900" height="36" rx="12" fill="#161b22"/>
+  <rect y="24" width="900" height="12" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="18" r="6" fill="#27c93f"/>
+  <text class="o" x="450" y="23" text-anchor="middle" style="font-size:12px">anoop@mca-workstation: ~</text>
+
+  <text class="l" x="40" y="84" style="animation-delay:.3s"><tspan class="p">$ </tspan><tspan class="c">whoami</tspan></text>
+  <text class="l o" x="40" y="108" style="animation-delay:.9s">Anoop Jogibettu, MCA student</text>
+
+  <text class="l" x="40" y="140" style="animation-delay:1.5s"><tspan class="p">$ </tspan><tspan class="c">cat now.yml</tspan></text>
+  <text class="l" x="40" y="164" style="animation-delay:2s"><tspan class="k">building</tspan><tspan class="c" x="160">: weaver</tspan></text>
+  <text class="l" x="40" y="188" style="animation-delay:2.3s"><tspan class="k">practicing</tspan><tspan class="c" x="160">: data structures, algorithms, OOD</tspan></text>
+  <text class="l" x="40" y="212" style="animation-delay:2.6s"><tspan class="k">exploring</tspan><tspan class="c" x="160">: AI engineering, agentic workflows, network security, IoT</tspan></text>
+
+  <text class="l" x="40" y="244" style="animation-delay:3.3s"><tspan class="p">$ </tspan><tspan class="c">echo $STATUS</tspan></text>
+  <text class="l o" x="40" y="268" style="animation-delay:3.9s">ready to ship</text>
+
+  <text class="l" x="40" y="300" style="animation-delay:4.5s"><tspan class="p">$ </tspan></text>
+  <rect class="cur" x="58" y="287" width="9" height="17"/>
+</svg>
